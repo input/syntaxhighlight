@@ -4,8 +4,16 @@
 
 ##Modules available
 
-[Google Code Prettify](http://drupal.org/project/prettify)  
-Simple and lightweight syntax highlighting of source code snippets using the [Google Code Prettify](http://code.google.com/p/google-code-prettify/) JavaScript library.
+[Code Filter](http://drupal.org/project/codefilter)  
+Uses PHP's [highlight_string()](http://php.net/manual/en/function.highlight-string.php) function.
 
 [GeSHi Filter](http://drupal.org/project/geshifilter)  
-Uses the third-party PHP library [GeSHi (Generic Syntax Highlighter)](http://qbnz.com/highlighter/)
+Uses the [GeSHi (Generic Syntax Highlighter)](http://qbnz.com/highlighter/) PHP library.
+
+[Google Code Prettify](http://drupal.org/project/prettify)  
+Uses the [Google Code Prettify](http://code.google.com/p/google-code-prettify/) JavaScript library.
+
+[Syntax highlighter](http://drupal.org/project/syntaxhighlighter)  
+Uses the [SyntaxHighlighter](http://alexgorbatchev.com/SyntaxHighlighter/) JavaScript library.
+
+ 
