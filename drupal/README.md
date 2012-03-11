@@ -4,7 +4,7 @@
 
 ##Modules available
 
-Note: this list only includes modules which have a Drupal 7 release and one or more installs.
+Note: this list only includes modules which have a Drupal 7 release and one or more reported installs.
 
 [Code Filter](http://drupal.org/project/codefilter)  
 Uses PHP's [highlight_string()](http://php.net/manual/en/function.highlight-string.php) function  
@@ -32,5 +32,10 @@ Installs: 3
 
 [Pygmentizer](http://drupal.org/project/pygmentizer)  
 Uses the [Pygments](http://pygments.org) Python library   
-Installs: 3
- 
+Installs: 3  
+
+###WYSIWYG compatible
+
+[Wysiwyg CodeMagic](http://drupal.org/project/wysiwyg_codemagic)  
+Uses [CodeMagic](http://codemagic.sutulustus.com), which integrates [CodeMirror](http://codemirror.net) and [JSBeautifier](http://jsbeautifier.org)  
+Installs: 152
