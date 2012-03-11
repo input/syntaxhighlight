@@ -39,3 +39,9 @@ Installs: 3
 [Wysiwyg CodeMagic](http://drupal.org/project/wysiwyg_codemagic)  
 Uses [CodeMagic](http://codemagic.sutulustus.com), which integrates [CodeMirror](http://codemirror.net) and [JSBeautifier](http://jsbeautifier.org)  
 Installs: 152
+
+###Helper modules
+
+[Syntaxhighlighter Insert](http://drupal.org/project/syntaxhighlighter_insert)  
+Assists the insertion of SyntaxHighlighter tags into a textarea  
+Installs: 24
